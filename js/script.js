@@ -16,9 +16,9 @@ $.backstretch([
      ], {duration: 2500, fade: 750});
 
 
-$('#submit').click(function(){
-$.post("send_form_email.php", $("#contactform").serialize(),  function(response) {
-$('#success').html(response);
+// $('#submit').click(function(){
+// $.post("send_form_email.php", $("#contactform").serialize(),  function(response) {
+// $('#success').html(response);
 
 });
 return false;
