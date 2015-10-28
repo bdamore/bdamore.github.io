@@ -20,9 +20,9 @@ $.backstretch([
 // $.post("send_form_email.php", $("#contactform").serialize(),  function(response) {
 // $('#success').html(response);
 
-});
-return false;
-});
+// });
+// return false;
+// });
 
 $(function() {
 
